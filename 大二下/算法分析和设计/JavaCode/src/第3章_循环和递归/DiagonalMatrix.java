@@ -1,5 +1,8 @@
 package 第3章_循环和递归;
 
+/**
+ * 3.4 打印规律图形数组
+ */
 public class DiagonalMatrix {
     public static void main(String[] args) {
         int n = 4;

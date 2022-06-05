@@ -3,6 +3,9 @@ package 第1章_summary;
 import static java.lang.Math.abs;
 import static java.lang.Math.min;
 
+/**
+ * 1.4 求两个正整数的最大公约数
+ */
 public class HCF {
     public static void main(String[] args) {
         System.out.println(Euclid(10,20));

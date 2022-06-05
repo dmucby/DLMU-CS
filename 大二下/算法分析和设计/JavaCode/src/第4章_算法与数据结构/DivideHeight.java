@@ -2,6 +2,9 @@ package 第4章_算法与数据结构;
 
 import java.util.Scanner;
 
+/**
+ * 4.3.2 身高统计问题
+ */
 public class DivideHeight {
     public static void main(String[] args) {
         int[] divide = new int[9];

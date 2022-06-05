@@ -4,6 +4,9 @@ package 第2章_算法分析基础;
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * 2.2.2 插入排序算法
+ */
 public class InsertSort {
     public static void main(String[] args) {
         Random random = new Random();

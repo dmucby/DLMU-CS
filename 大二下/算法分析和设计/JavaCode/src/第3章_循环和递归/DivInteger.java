@@ -2,6 +2,9 @@ package 第3章_循环和递归;
 
 import java.util.Scanner;
 
+/**
+ * 3.5.2 整数划分问题
+ */
 public class DivInteger {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

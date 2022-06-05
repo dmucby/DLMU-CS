@@ -2,6 +2,10 @@ package 第3章_循环和递归;
 
 import java.util.Scanner;
 
+/**
+ * 3.2 实现数学表达式
+ */
+
 public class FactorialLoop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

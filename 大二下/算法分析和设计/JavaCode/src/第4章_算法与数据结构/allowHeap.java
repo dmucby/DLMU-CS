@@ -1,5 +1,9 @@
 package 第4章_算法与数据结构;
 
+/**
+ * 4.3.3 及格名单统计
+ */
+
 public class allowHeap {
     public static void main(String[] args) {
         int[] array = {

@@ -2,6 +2,9 @@ package 第4章_算法与数据结构;
 
 import java.util.Scanner;
 
+/**
+ * 4.4.1 编号翻译
+ */
 public class translate {
 
     static String[] nums = {"zero","one","two","three","four","five","six","seven","eight","nine"};

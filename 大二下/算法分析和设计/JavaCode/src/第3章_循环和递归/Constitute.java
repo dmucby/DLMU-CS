@@ -2,6 +2,10 @@ package 第3章_循环和递归;
 
 import java.util.Scanner;
 
+/**
+ * 3.6.2 N数 r组合问题
+ */
+
 public class Constitute {
     static int total = 0;
 

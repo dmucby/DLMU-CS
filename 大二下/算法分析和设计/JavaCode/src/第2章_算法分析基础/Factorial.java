@@ -1,5 +1,8 @@
 package 第2章_算法分析基础;
 
+/**
+ * 2.5.4 求阶乘
+ */
 public class Factorial {
     public static void main(String[] args) {
         System.out.println(factorial(5));

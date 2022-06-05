@@ -6,6 +6,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 不能用 n皇后问题
+ */
 public class N_Queues {
 
     static List<List<String>> res = new ArrayList<>();

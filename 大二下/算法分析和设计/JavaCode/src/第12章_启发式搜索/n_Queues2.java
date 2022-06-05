@@ -4,6 +4,11 @@ import java.util.Scanner;
 
 import static java.lang.Math.abs;
 
+/**
+ * 回溯法
+ * 12.3 n皇后问题
+ * 给出解法 和 个数
+ */
 public class n_Queues2 {
 
     static int[] queen = new int[20];

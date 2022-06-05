@@ -1,5 +1,8 @@
 package 第3章_循环和递归;
 
+/**
+ * 3.3 找出1000以内的完数
+ */
 public class PerfectNumber {
     public static void main(String[] args) {
         perfectNumber();

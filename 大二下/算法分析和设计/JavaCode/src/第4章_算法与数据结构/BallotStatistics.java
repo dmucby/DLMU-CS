@@ -2,6 +2,9 @@ package 第4章_算法与数据结构;
 
 import java.util.Scanner;
 
+/**
+ * 4.3.1 选票统计问题
+ */
 public class BallotStatistics {
     public static void main(String[] args) {
 
