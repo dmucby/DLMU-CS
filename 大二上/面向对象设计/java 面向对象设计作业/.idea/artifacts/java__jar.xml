@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="java 面向对象设计作业:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java__jar</output-path>
+    <root id="root">
+      <element id="archive" name="java 面向对象设计作业.jar">
+        <element id="module-output" name="java 面向对象设计作业" />
+      </element>
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
