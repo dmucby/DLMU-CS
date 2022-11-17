@@ -1,0 +1,5 @@
+ÀhmýPID	TTY	CMD
+817263	pts/3	(bash)
+823552	pts/3	(2220202929_mysh)
+824234	pts/3	(2220202929_mysh)
+824235	pts/3	(ps)
